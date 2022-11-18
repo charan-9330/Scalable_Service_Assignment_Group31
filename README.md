@@ -13,4 +13,4 @@ Link for the docker image tar file : (https://drive.google.com/file/d/1u3D2GLsri
 
 The docker image can be easily accessed by first downloading the tar file and then running the command : 
 
-docker load file-name.tar
+##docker load file-name.tar
